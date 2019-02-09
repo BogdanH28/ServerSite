@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="44.398" viewBox="0 0 138 44.398">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 23px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.019em;
+      }
+
+      .cls-2 {
+        fill: #00738b;
+      }
+
+      .cls-3 {
+        fill: rgba(228,121,0,0.79);
+      }
+    </style>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-140 -24.608)">
+    <g id="Group_24" data-name="Group 24">
+      <text id="_28andTwo_" data-name="28andTwo        " class="cls-1" transform="translate(140 31.006)"><tspan x="0" y="25" xml:space="preserve">28andTwo        </tspan></text>
+      <g id="Group_14" data-name="Group 14" transform="translate(251.167 23.531)">
+        <g id="NavBar-logo" transform="matrix(0.966, -0.259, 0.259, 0.966, 0, 5.351)">
+          <path id="Path_2" data-name="Path 2" class="cls-2" d="M2.879,0a3.2,3.2,0,0,1,3.1,2.969l.509,13.347a2.675,2.675,0,0,1-2.877,2.751A3.2,3.2,0,0,1,.511,16.1L0,2.753A2.675,2.675,0,0,1,2.879,0Z" transform="translate(16.516 0) rotate(60)"/>
+          <path id="Path_1" data-name="Path 1" class="cls-3" d="M2.879,0a3.2,3.2,0,0,1,3.1,2.969l.509,13.347a2.675,2.675,0,0,1-2.877,2.751A3.2,3.2,0,0,1,.511,16.1L0,2.753A2.675,2.675,0,0,1,2.879,0Z" transform="translate(17.433 7.496) rotate(60)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

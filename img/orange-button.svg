@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="293.785" height="76" viewBox="0 0 293.785 76">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(228,121,0,0.79);
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-size: 40px;
+        font-family: SegoeUI-Bold, Segoe UI;
+        font-weight: 700;
+        letter-spacing: 0.019em;
+      }
+    </style>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(-510.302 6)">
+    <rect id="Rectangle_4" data-name="Rectangle 4" class="cls-1" width="292.835" height="76" rx="35" transform="translate(510.302 -6)"/>
+    <text id="Get_Started" data-name="Get Started" class="cls-2" transform="translate(511.087 1)"><tspan x="35.184" y="43">Get Started</tspan></text>
+  </g>
+</svg>
